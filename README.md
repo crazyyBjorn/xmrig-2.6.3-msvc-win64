@@ -1,0 +1,1 @@
+# xmrig-2.6.3-msvc-win64
